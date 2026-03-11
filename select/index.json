@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "I'm Every Woman",
+  "base_artist": "Chaka Khan",
+  "createdAt": "2026-03-11T10:41:02.334537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/01_I'm_Every_Woman_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/02_I'm_Every_Woman_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Chaka Khan",
+      "has_synced": false,
+      "path": "select/03_I'm_Every_Woman_Chaka_Khan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Every Woman - From “Black History Always / Music For the Movement Vol. 2\"",
+      "artist": "Tinashe feat. TOKiMONSTA",
+      "has_synced": true,
+      "path": "select/04_I'm_Every_Woman_-_From_“Black_History_Always___Music_For_the_Movement_Vol._2_Tinashe_feat._TOKiMONSTA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Every Woman (From “Black History Always / Music For the Movement Vol. 2\")",
+      "artist": "Tinashe, TOKiMONSTA",
+      "has_synced": true,
+      "path": "select/05_I'm_Every_Woman_(From_“Black_History_Always___Music_For_the_Movement_Vol._2_)_Tinashe,_TOKiMONSTA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/06_I'm_Every_Woman_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Whitney Houston feat. SG Lewis",
+      "has_synced": true,
+      "path": "select/07_I'm_Every_Woman_Whitney_Houston_feat._SG_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/08_I'm_Every_Woman_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Every Woman",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/09_I'm_Every_Woman_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Every Woman (Clivillés & Cole House mix)",
+      "artist": "Whitney Houston",
+      "has_synced": false,
+      "path": "select/10_I'm_Every_Woman_(Clivillés_&_Cole_House_mix)_Whitney_Houston.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Every Woman (C + C Club Mix Radio Edit)",
+      "artist": "Whitney Houston",
+      "has_synced": false,
+      "path": "select/11_I'm_Every_Woman_(C_+_C_Club_Mix_Radio_Edit)_Whitney_Houston.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Every Woman (Clivilles And Cole Mix)",
+      "artist": "Whitney Houston",
+      "has_synced": false,
+      "path": "select/12_I'm_Every_Woman_(Clivilles_And_Cole_Mix)_Whitney_Houston.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Every Woman - Remix",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/13_I'm_Every_Woman_-_Remix_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Every Woman (Remix)",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/14_I'm_Every_Woman_(Remix)_Chaka_Khan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Every Woman",
+      "artist": "Chaka Khan",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Every_Woman_Chaka_Khan.txt"
+    }
+  ]
+}
